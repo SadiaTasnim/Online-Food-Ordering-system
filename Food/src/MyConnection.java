@@ -5,7 +5,10 @@
  */
 
 /**
+<<<<<<< HEAD
  
+=======
+>>>>>>> 3b08e6e9f203ad5f4f63cb7ebff6a1d7ce25e8eb
  * @author LENOVO
  */
 class MyConnection {
