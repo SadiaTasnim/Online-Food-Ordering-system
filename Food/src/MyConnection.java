@@ -5,7 +5,6 @@
  */
 
 /**
- *
  * @author LENOVO
  */
 class MyConnection {
